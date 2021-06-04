@@ -1,0 +1,11 @@
+.error {
+    a :{
+      color: red;
+    }
+}
+.cool-background {
+    body :{
+        background-color: gray !important;
+        }
+
+}
